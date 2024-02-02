@@ -18,4 +18,4 @@ Bu proje, React ve GraphQL kullanılarak geliştirilmiş bir veri ihracat uygula
 2. GraphQL sorgularını kullanarak istediğiniz veri setlerini filtreleyin.
 3. "Veri Dışa Aktar" düğmesine tıklayarak seçtiğiniz verileri dosya formatında dışa aktarın.
 
-Süleyman Oğuzcan
+Yazan: Süleyman Oğuzcan
